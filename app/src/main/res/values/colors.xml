@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#64d5ff</color>
+
+    <color name="gray_color">#C5C5C5</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="loading_ui_text_color">#06e5c9</color>
+    <color name="loading_ui_close_color">#87d2de</color>
+    <color name="loading_ui_far_color">#bee7ee</color>
+
+    <color name="primary_yellow_color">#f5a643</color>
+</resources>
